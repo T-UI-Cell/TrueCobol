@@ -1,0 +1,12 @@
+first 4 numbers = PAINT-EST-NO (Amount of gallons I presume)
+next 4 numbers = PAINT-YY (year of Painting? or something like that)
+next 2 numbers = PAINT-MM (Months)
+next 2 numbers = PAINT-DD (Day)
+next 4 numbers = PAINT-WALL-SQ-FT (walls sq ft that need painted)
+next 3 numbers = PAINT-DOOR-SQ-FT (door sq ft that needs painted)
+next 4 numbers = PAINT-PRICE-GAL (price per paint gallon)
+line 2 and 3 are mins and maxs
+line 10 example if some idiot tried doing all the same number
+line 11 testing repeating numbers
+line 15 through 17 testing maxs and mins in diffrent areas
+
